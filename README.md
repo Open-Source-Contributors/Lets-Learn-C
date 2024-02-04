@@ -20,5 +20,5 @@ This repository is your ultimate destination for all learning materials associat
 
 3. **Feedback and Contributions:** We value your feedback! If you discover errors, have suggestions for improvement, or wish to contribute additional learning resources, please feel free to open an issue or submit a pull request.
 
-Embark on this coding journey with us and master the art of C programming! 
+Embark on this coding journey with us and master the art of C programming! </br>
 Happy coding! 🖥️💻
