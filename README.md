@@ -1,6 +1,6 @@
-# Let's Learn C Online Bootcamp Repository
+# Let's Learn C 
 
-Welcome to the "Let's Learn C" Online Bootcamp repository! 🚀
+Welcome to the **Let's Learn C** Online Bootcamp repository! 🚀
 
 This repository is your ultimate destination for all learning materials associated with our C programming course. 
 
