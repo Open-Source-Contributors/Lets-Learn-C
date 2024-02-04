@@ -1,4 +1,4 @@
-# Let's Learn C 
+# Lets Learn C 
 
 Hey there! Welcome to the "Let's Learn C" online bootcamp repository – a digital scrapbook of the fantastic journey we embarked on to master the foundations of C programming. I am thrilled to share this space with you, in memory of our learning adventures, laughter-filled sessions, and to document what we learned together. 
 
