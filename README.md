@@ -2,7 +2,7 @@
 
 Welcome to the "Let's Learn C" Online Bootcamp repository! 🚀
 
-This repository is your ultimate destination for all learning materials associated with our C programming course, which aims to make  
+This repository is your ultimate destination for all learning materials associated with our C programming course. 
 
 ## What's Inside?
 - **Topic Slides:** Dive into lecture slides mentioning essential C programming concepts. 
