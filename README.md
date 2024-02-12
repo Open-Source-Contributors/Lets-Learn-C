@@ -7,15 +7,15 @@ Hey there! Welcome to the "Lets Learn C" online bootcamp repository – a digita
 
 ## How to Use This Repository
 
-1. Presentation Slide:
+1. [Presentation Slide](/Lets learn C.pptx):
 The presentation slide mentioning each topic are directly accessible. Simply click on the presentation file to review and track topics.
-3. Handbook:
+3. [Handbook](/C Handbook.pdf):
 In the C Handbook, you'll find a treasure trove of short notes and a quick guide to C concepts. This handbook serves as a handy reference, summarizing key learnings and providing a quick refresh for those moments when you need a rapid recall of fundamental concepts.
-4. Learning Curriculum:
+4. [Learning Curriculum](/Learning Curriculum.pdf):
 The complete learning curriculum, encapsulating the entire syllabus, is provided. This document provides an overview of the topics covered, serving as a roadmap for your C programming journey.
-5. Coding Problems:
+5. [Coding Problems](/C Coding Problems.pdf):
 The set of coding problems for post-bootcamp practice is conveniently available as a downloadable PDF. This document contains a curated list of challenges to help you sharpen your coding skills and apply what you've learned.
-6. C Extras:
+6. [C Extras](/Lets-Learn-C):
 We keep updating the repo, to keep you updated.
 </br>
 
