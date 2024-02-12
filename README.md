@@ -14,7 +14,10 @@ In the C Handbook, you'll find a treasure trove of short notes and a quick guide
 4. Learning Curriculum:
 The complete learning curriculum, encapsulating the entire syllabus, is provided. This document provides an overview of the topics covered, serving as a roadmap for your C programming journey.
 5. Coding Problems:
-The set of coding problems for post-bootcamp practice is conveniently available as a downloadable PDF. This document contains a curated list of challenges to help you sharpen your coding skills and apply what you've learned.</br>
+The set of coding problems for post-bootcamp practice is conveniently available as a downloadable PDF. This document contains a curated list of challenges to help you sharpen your coding skills and apply what you've learned.
+6. C Extras:
+We keep updating the repo, to keep you updated.
+</br>
 
 I encourage everyone who took part in our "Lets Learn C" sessions to make the best use of the materials provided in this repository. Dive into the presentation slides, delve into the handbook, explore the learning curriculum, and tackle the coding challenges with enthusiasm. Let these resources be your guide as you continue your journey in C programming. 
 Let's keep the learning spirit alive! Your participation and contributions make this repository a living record of our collective growth in "Lets Learn C." </br> Happy exploring, learning and coding! 🚀👩‍💻👨‍💻
